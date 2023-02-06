@@ -1,0 +1,1 @@
+/usr/local/gcc-8.2/bin/c++     CMakeFiles/test.dir/test.cc.o  -o test   -L/usr/local/cuda/targets/x86_64-linux/lib  libcudaTest.a -lcudadevrt -lcudart_static -lrt -lpthread -ldl 

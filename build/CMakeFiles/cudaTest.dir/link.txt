@@ -1,0 +1,2 @@
+/usr/local/bin/ar qc libcudaTest.a  CMakeFiles/cudaTest.dir/cudaTest.cu.o
+/usr/local/bin/ranlib libcudaTest.a

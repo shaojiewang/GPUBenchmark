@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/work/gpu_tests/GPUBenchmark/cudaTest.cu
+cudaTest.h
+/work/gpu_tests/GPUBenchmark/cudaTest.h
+array
+-
+math.h
+-
+chrono
+-
+iostream
+-
+
+/work/gpu_tests/GPUBenchmark/cudaTest.h
+array
+-
+numeric
+-
+

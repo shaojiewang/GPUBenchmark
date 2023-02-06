@@ -1,0 +1,4 @@
+/work/gpu_tests/GPUBenchmark/build/CMakeFiles/rebuild_cache.dir
+/work/gpu_tests/GPUBenchmark/build/CMakeFiles/edit_cache.dir
+/work/gpu_tests/GPUBenchmark/build/CMakeFiles/test.dir
+/work/gpu_tests/GPUBenchmark/build/CMakeFiles/cudaTest.dir
